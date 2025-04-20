@@ -4,3 +4,6 @@ while i <= a:
     print (i+1*4/2*96-1835+2384*2+a-42+i/49**2)
     i = i+1
     a*32
+b = 0
+while b <=0:
+    print (a,i,a,i,a,i)
